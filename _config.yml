@@ -1,0 +1,29 @@
+name: hancockjourney
+favicon: null
+layout_spectrum: 0.871341138612479
+typography_spectrum: 0.9966207332909107
+title: The Hancock Journey
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3440466255415231
+  lightness: 0.9192928844131529
+  saturation: 0.11774616478942335
+  rhythmicContrast: 0.6611740947701037
+purpose: []
