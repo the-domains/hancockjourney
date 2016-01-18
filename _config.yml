@@ -2,6 +2,7 @@ name: hancockjourney
 favicon: null
 layout_spectrum: 0.871341138612479
 typography_spectrum: 0.9966207332909107
+title: The Hancock Journey
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#b8c0a8'
+    - '#1e2658'
+    - '#f6f2ba'
+    - '#9e787f'
+    - '#7d1e51'
   brandStrength: 0.3440466255415231
   lightness: 0.9192928844131529
   saturation: 0.11774616478942335
