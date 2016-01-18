@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Hancock Journey]]></title>
+        <description><![CDATA[The Hancock Journey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 03:33:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Road to Kapin]]></title>
+            <description><![CDATA[<article><h1>The Road to Kapin</h1><p>The day we left the SIL compound to the Kapin village was a whirlwind.  We left around 8:30 in a truck that carried our gear.  I sat in in the back of the truck for about 4.5 hours and sat in the cab for 15 – 30 minutes.  The truck was halted a couple of times for a flat tire, flooding in the roads, and our last stop.  Then we hiked for 30mins uphill and I was totally bushed.</p></article>]]></description>
+            <link>undefinedthe-road-to-kapin/index.html</link>
+            <guid isPermaLink="false">815eccdb-a7a7-45f7-b2b1-6ca68d5fd0ef</guid>
+            <pubDate>Mon, 18 Jan 2016 03:33:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
