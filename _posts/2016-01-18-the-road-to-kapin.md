@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T03:33:20.473Z'
-dateModified: '2016-01-18T03:33:01.534Z'
+datePublished: '2016-01-18T03:39:22.776Z'
+dateModified: '2016-01-18T03:39:04.746Z'
 title: The Road to Kapin
 author: []
 authors: []
@@ -39,4 +39,6 @@ Thank you all for being a part of this journey by praying and financially giving
 What a way to celebrate Thanksgiving!
 
 Isaiah 40:31  ...but they who wait for the Lord shall renew their strength;  they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a4e97f5-faca-4436-968e-9b76bccd1e9a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab988150-c239-4a27-ba4d-33222869438d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ee6b0f-08bc-4098-9434-80f1f5588f98.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7adc3a-a6db-428a-93f2-3a77f210487e.jpg)
