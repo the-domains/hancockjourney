@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T03:39:22.776Z'
-dateModified: '2016-01-18T03:39:04.746Z'
+datePublished: '2016-01-18T03:42:15.268Z'
+dateModified: '2016-01-18T03:42:09.330Z'
 title: The Road to Kapin
 author: []
 authors: []
