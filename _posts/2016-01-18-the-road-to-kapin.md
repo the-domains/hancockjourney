@@ -6,25 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T04:00:19.925Z'
-dateModified: '2016-01-18T03:42:15.330Z'
+datePublished: '2016-01-20T21:00:37.289Z'
+dateModified: '2016-01-20T21:00:29.916Z'
 title: The Road to Kapin
 author: []
+sourcePath: _posts/2016-01-18-the-road-to-kapin.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-the-road-to-kapin.md
-published: true
 url: the-road-to-kapin/index.html
 _type: Article
 
 ---
-The day we left the SIL compound to the Kapin village was a whirlwind.  We left around 8:30 in a truck that carried our gear.  I sat in in the back of the truck for about 4.5 hours and sat in the cab for 15 -- 30 minutes.  The truck was halted a couple of times for a flat tire, flooding in the roads, and our last stop.  Then we hiked for 30mins uphill and I was totally bushed.
-
-When we came to the entrance to the village we saw a gate made from palm branches. Then we heard from the inside part of the gate the voice of the guard who said in his Pidgin talk "For what reason have you come?"
+The day we left the SIL compound to the Kapin village was a whirlwind.  We left around 8:30 in a truck that carried our gear.  I sat in in the back of the truck for about 4.5 hours and sat in the cab for 15 -- 30 minutes.  The truck was halted a couple of times for a flat tire, flooding in the roads, and our last stop.  Then we hiked for 30mins uphill and I was totally bushed. When we came to the entrance to the village we saw a gate made from palm branches. Then we heard from the inside part of the gate the voice of the guard who said in his Pidgin talk "For what reason have you come?"
 
 The translator John Lindstrom cried  "We come in the name of Jesus!"  The guard replied..."since we do not know him you can come in so we can learn about him." Apparently this was a re-enactment of what happen year ago. The gate was opened and guitar playing and singing started leading us into a procession. We were greeted by warm handshaking, wide smiles, and flowers wrapped around our neck. When we entered into the meeting room we saw girls with mango paint on their faces singing and throwing flower pedals at us...we were covered.
 
