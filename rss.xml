@@ -4,7 +4,7 @@
         <description><![CDATA[The Hancock Journey]]></description>
         <link>https://thegrid.ai/hancockjourney/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 21:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 21:30:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hancockjourney/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Road to Kapin]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/hancockjourney/the-road-to-kapin/index.html</link>
             <guid isPermaLink="false">0c50f449-423e-42db-97d8-76e21ecfd91d</guid>
             <pubDate>Wed, 20 Jan 2016 21:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6dff0cd-ee07-4c75-82a3-9f77d92d9e04.jpg">]]></description>
-            <link>https://thegrid.ai/hancockjourney/d25d5f15-d180-4f24-ae27-b9965639c7f6/index.html</link>
-            <guid isPermaLink="false">d25d5f15-d180-4f24-ae27-b9965639c7f6</guid>
-            <pubDate>Wed, 20 Jan 2016 21:15:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
