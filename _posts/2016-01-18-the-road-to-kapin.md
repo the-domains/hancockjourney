@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-20T21:02:01.428Z'
+datePublished: '2016-01-20T21:02:01.517Z'
 dateModified: '2016-01-20T21:01:58.329Z'
 title: The Road to Kapin
 author: []
