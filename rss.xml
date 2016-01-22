@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Hancock Journey]]></title>
+        <description><![CDATA[The Hancock Journey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 03:29:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88b0b6d3-5e45-4ca6-87b1-962496bf2bc5.jpg">]]></description>
+            <link>undefined5e4ac9ae-d4c6-44eb-8c08-79ad16a58b83/index.html</link>
+            <guid isPermaLink="false">5e4ac9ae-d4c6-44eb-8c08-79ad16a58b83</guid>
+            <pubDate>Fri, 22 Jan 2016 03:29:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
