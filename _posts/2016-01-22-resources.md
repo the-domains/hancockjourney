@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T19:42:09.402Z'
+datePublished: '2016-01-22T19:42:09.416Z'
 dateModified: '2016-01-22T19:42:04.472Z'
 title: Resources
 author: []
