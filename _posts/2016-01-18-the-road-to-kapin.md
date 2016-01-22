@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-22T19:03:02.923Z'
-dateModified: '2016-01-22T19:02:31.640Z'
+description: test
+datePublished: '2016-01-22T19:08:49.611Z'
+dateModified: '2016-01-22T19:08:46.013Z'
 title: The Road to Kapin
 author: []
 sourcePath: _posts/2016-01-18-the-road-to-kapin.md
