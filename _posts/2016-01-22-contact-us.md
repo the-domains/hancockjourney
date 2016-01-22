@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T19:11:48.744Z'
-dateModified: '2016-01-22T19:11:45.428Z'
+datePublished: '2016-01-22T19:29:05.056Z'
+dateModified: '2016-01-22T19:29:01.487Z'
 title: Contact us
 author: []
 sourcePath: _posts/2016-01-22-contact-us.md
@@ -28,4 +28,4 @@ Contact Us
 
 https://www.facebook.com/HancockJourney/ 
 
-https://wycliffeassociates.org/what-we-do/technology-advancement
+Check this out   https://wycliffeassociates.org/what-we-do/technology-advancement
